@@ -6,6 +6,9 @@
       "$className": "ReplicatedStorage",
       "Bankroll": {
         "$path": "src/Bankroll.lua"
+      },
+      "BankrollLoader": {
+        "$path": "src/BankrollLoader.lua"
       }
     },
     "StarterPlayer": {
