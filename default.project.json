@@ -1,0 +1,21 @@
+{
+  "name": "Bankroll",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "Bankroll": {
+        "$path": "src/Bankroll.lua"
+      }
+    },
+    "StarterPlayer": {
+      "$className": "StarterPlayer",
+      "StarterPlayerScripts": {
+        "$className": "StarterPlayerScripts",
+        "BankrollDemo": {
+          "$path": "src/BankrollDemo.client.lua"
+        }
+      }
+    }
+  }
+}
